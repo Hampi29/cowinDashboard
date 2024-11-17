@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.dashboard {
+  background-color: #161625;
+  padding: 50px;
+  color: #cbd5e1;
+}
+.logo-cont {
+  display: flex;
+
+  align-items: center;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
+.failure-image{
+  height: 250px;
+  width: 250px;
+  margin: 30px;
+}
